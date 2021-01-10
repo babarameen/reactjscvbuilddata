@@ -19,8 +19,23 @@ let Data=[
         rol:"47"
     },
     {
-        
-    }
+        name:"saqib",
+        age:"24",
+        class:"mcs",
+        rol:"47 "
+    },
+    {
+        name:"saqib",
+        age:"24",
+        class:"mcs",
+        rol:"47"
+    },
+    {
+        name:"saqib",
+        age:"24",
+        class:"mcs",
+        rol:"47"
+    },
 
 ]
 
