@@ -1,4 +1,4 @@
-import Avatarimg from '../images/IMG1_2624.jpg'
+import Avatarimg from '../images/IMG1_2624.JPG'
 let Data=[
     
     {
