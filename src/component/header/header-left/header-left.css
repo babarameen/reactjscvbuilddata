@@ -1,4 +1,11 @@
 .header{
-    background: yellow;
-    color: red;
+}
+.avatarname{
+    color:#2b353f;
+}
+.avatartitle{
+    color: #f2745e;
+}
+.avatardes{
+    color: #2b353f;
 }

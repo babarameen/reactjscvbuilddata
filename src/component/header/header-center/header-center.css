@@ -1,0 +1,13 @@
+.image-border{
+    background-color: #ee4e41;
+    clip-path: circle(41.8% at 50% 50%);
+}
+.image-shape{
+background-color: red;
+clip-path: circle(39.8% at 50% 50%);
+border: 1px solid red;
+}
+.image-shape img{
+    width: 100%;
+
+}
