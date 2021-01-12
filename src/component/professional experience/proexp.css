@@ -1,0 +1,26 @@
+.job_date_main{
+    width: 100%;
+    display: inline-block;
+}
+.job_dates{
+    float: left;
+}
+.job_location{
+   float: right;
+   text-transform: capitalize;
+}
+.achiv_tag{
+    text-transform: capitalize;
+    color: #f2745e;
+}
+.jb_title{
+    font-weight: bold;
+    text-transform: capitalize;
+}
+.job_company{
+    text-transform: capitalize;
+}
+.pro_exp{
+    text-transform: capitalize;
+    margin: 10px 0px;
+}

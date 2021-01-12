@@ -18,7 +18,7 @@ export default class header extends React.Component{
                         <Headerright/>
                     </div>
                  </div>
-                 <hr className="header-bottom-border"/>
+                 
              </div>
             
         );

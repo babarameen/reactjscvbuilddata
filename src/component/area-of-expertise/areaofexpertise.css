@@ -1,0 +1,15 @@
+.tags{
+    background-color: #f2745e;
+    margin-left: 2px;
+    padding: 3px 15px;
+    border-radius: 10px;
+    color: #fff;
+    font-weight: bold;
+    text-transform: uppercase;
+    display: -webkit-inline-box;
+    margin-top: 5px;
+}
+.ex-title{
+    text-transform: uppercase;
+    font-weight: bold;
+}
